@@ -30,7 +30,7 @@ public class GestioneEventi {
 
 
 //
-//        Evento mostraartistica = new Evento("Bansky",LocalDate.of(2023,10,31), "Una mostra artistica delle foto dei murales di Bansky",TipoEvento.PUBBLICO,1000);
+//       Evento mostraartistica = new Evento("Bansky",LocalDate.of(2023,10,31), "Una mostra artistica delle foto dei murales di Bansky",TipoEvento.PUBBLICO,1000);
 //
 //        Evento eventodibeneficenza = new Evento("Raccolta fondi",LocalDate.of(2022,12,31),"Raccolta fondi per ricerca contro il cancro",TipoEvento.PRIVATO,500);
 //
